@@ -2,6 +2,8 @@
 
 > Built with the complete **MERN Stack** (MongoDB, Express.js, React, Node.js), **Tailwind CSS**, and **Socket.IO** for live real-time bidirectional queue synchronization.
 
+🎥 **Demo Video:** [Watch the Full System Walkthrough (Google Drive)](https://drive.google.com/file/d/1B5dFgG9qkEOUfbjLiFlAm0PAo3uJx3P3/view?usp=sharing)
+
 ---
 
 ## 1. Product Vision & Problem Solved
